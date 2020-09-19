@@ -1,6 +1,7 @@
-# this is a smiple calculator
+# This is a smiple calculator
 finished along with youtube tutorial
 
-#Languages used:
+# Languages used:
 HTML
-CSS JavaScript
+CSS
+JavaScript
